@@ -12,5 +12,5 @@ class App extends Component {
     );
   }
 }
-//
+// 해치웠나?
 export default App;
